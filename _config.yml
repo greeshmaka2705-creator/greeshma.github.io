@@ -24,7 +24,7 @@ image                    : "/images/Thumbnail.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile1.png"
+  avatar           : "profile.png"
   name             : "Greeshma K A"
   pronouns         : # example: "she/her"  
   bio              : "Coordinator,CIE at Chanakya University"
