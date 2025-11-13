@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Ashwin Prakash"
+title                    : "Greeshma K A"
 title_separator          : "-"
-name                     : &name "Ashwin Prakash"
-description              : &description "Ashwin Prakash's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://ashwinprakash2020.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Greeshma K A"
+description              : &description "Greeshma K A's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://greeshma.github.io/" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashwinprakash2020/ashwinprakash2020.github.io"
+repository               : "greeshmaka2705-creator/greeshma.github.io"
 image                    : "/images/Thumbnail.png"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,13 +25,13 @@ image                    : "/images/Thumbnail.png"
 author:
   # Biographic information
   avatar           : "Profile1.png"
-  name             : "Ashwin Prakash"
+  name             : "Greeshma K A"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at Chanakya University"
+  bio              : "Coordinator,CIE at Chanakya University"
   location         : "Bangalore, Karnataka, India"
   employer         : "Chanakya University"
   uri              : # URL
-  email            : "ashwin.p@chanakyauniversity.edu.in" 
+  email            : "greeshma.ka@chanakyauniversity.edu.in" 
 
   # Academic websites
   academia         : # URL
@@ -62,9 +62,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "ashwinnn.n"
+  instagram        : #
   lastfm           : # Username
-  linkedin         : "ashwinprakash20"
+  linkedin         : #
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
